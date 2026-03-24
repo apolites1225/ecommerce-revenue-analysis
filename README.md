@@ -32,7 +32,8 @@ The goal was to identify **what drives revenue**, **where it is concentrated**, 
 
 - Built multi-table joins across customers, orders, and payments to create a unified analytical dataset  
 - Prevented revenue duplication by aggregating payment data at the order level  
-- Used DAX to create KPIs and dynamic measures for dashboard interactivity
+- Filtered to delivered orders to ensure accurate revenue reporting  
+- Created DAX measures for KPIs and dynamic dashboard interactivity  
 
 ---
 ## Key Insights
