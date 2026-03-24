@@ -62,4 +62,31 @@ The goal was to identify **what drives revenue**, **where it is concentrated**, 
 
 ## Dashboard Preview
 
-### Customer Behavio
+### Customer Behavior
+
+![Customer](customer_page.png)
+
+### Geographic Revenue
+
+![Geography](geography_page.png)
+
+### Revenue Trends
+
+![Trends](trends_page.png)
+
+---
+
+## Files Included
+
+* Power BI dashboard (.pbix)
+* SQL queries used for analysis
+* Dashboard screenshots
+
+---
+
+## What I Learned
+
+* How to structure raw transactional data into an analytical model
+* Importance of filtering and data validation (e.g., excluding canceled orders)
+* How to translate business questions into SQL queries and dashboard visuals
+* Designing dashboards that communicate insights clearly and effectively
