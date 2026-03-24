@@ -34,7 +34,6 @@ The goal was to identify **what drives revenue**, **where it is concentrated**, 
 ### Customer Behavior
 
 * Repeat customers represent ~3% of customers but generate ~5.6% of total revenue
-* Indicates a small but valuable high-frequency customer segment
 * Suggests opportunity for retention strategies and loyalty programs
 
 ### Geographic Revenue Distribution
