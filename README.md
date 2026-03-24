@@ -47,7 +47,13 @@ The goal was to identify **what drives revenue**, **where it is concentrated**, 
 * Revenue growth is primarily driven by increased order volume
 * Average revenue per order remains relatively stable
 * Suggests growth is coming from acquisition rather than increased customer spend
+---
 
+## Business Recommendations
+
+- Invest in retention strategies to increase repeat customer contribution  
+- Expand operations and marketing in underrepresented regions to reduce geographic concentration risk  
+- Explore pricing or bundling strategies to increase average order value  
 ---
 
 ## Dashboard Features
