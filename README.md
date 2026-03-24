@@ -64,15 +64,15 @@ The goal was to identify **what drives revenue**, **where it is concentrated**, 
 
 ### Customer Behavior
 
-![Customer](customer_page.png)
+![Customer](images/customer_page.png)
 
 ### Geographic Revenue
 
-![Geography](geography_page.png)
+![Geography](images/geography_page.png)
 
 ### Revenue Trends
 
-![Trends](trends_page.png)
+![Trends](images/trends_page.png)
 
 ---
 
