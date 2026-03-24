@@ -28,7 +28,13 @@ The goal was to identify **what drives revenue**, **where it is concentrated**, 
   * Yearly revenue trends
 
 ---
+## Technical Highlights
 
+- Built multi-table joins across customers, orders, and payments to create a unified analytical dataset  
+- Prevented revenue duplication by aggregating payment data at the order level  
+- Used DAX to create KPIs and dynamic measures for dashboard interactivity
+
+---
 ## Key Insights
 
 ### Customer Behavior
@@ -47,8 +53,8 @@ The goal was to identify **what drives revenue**, **where it is concentrated**, 
 * Revenue growth is primarily driven by increased order volume
 * Average revenue per order remains relatively stable
 * Suggests growth is coming from acquisition rather than increased customer spend
+  
 ---
-
 ## Business Recommendations
 
 - Invest in retention strategies to increase repeat customer contribution  
